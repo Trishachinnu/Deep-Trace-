@@ -106,17 +106,17 @@ http://127.0.0.1:5000
     
 📷 Working Principle
 
-Extracts frames from video or processes images
-Detects faces using computer vision techniques
-Analyzes facial features and inconsistencies
-Classifies content as Real or Deepfake
+1. Extracts frames from video or processes images
+2. Detects faces using computer vision techniques
+3. Analyzes facial features and inconsistencies
+4. Classifies content as Real or Deepfake
 
 🔮 Future Enhancements
 
-Improve detection accuracy using advanced models
-Add real-time webcam detection
-Deploy as a web/cloud application
-Improve user interface and experience
+1. Improve detection accuracy using advanced models
+2. Add real-time webcam detection
+3. Deploy as a web/cloud application
+4. Improve user interface and experience
 
 
 👩‍💻 Author
